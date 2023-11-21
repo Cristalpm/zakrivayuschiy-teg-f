@@ -50,4 +50,10 @@ ol {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
   white-space: nowrap;
+  -webkit-clip-path: inset(50%);
+}
+/*Селектор для изоображения*/
+img {
+  width: 100%;
+  height: 100%;
 }
