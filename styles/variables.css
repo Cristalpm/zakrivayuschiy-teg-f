@@ -6,6 +6,7 @@
   --fantasy-font-family: "Press Start 2P", fantasy;
   --heart-color: #ff0000;
 }
+
 /*Светлая тема*/
 @media (prefers-color-scheme: light) {
   :root {
@@ -22,6 +23,7 @@
     --label-stroke-color: var(--page-background);
   }
 }
+
 /*Тёманя тема*/
 @media (prefers-color-scheme: dark) {
   :root {
@@ -38,4 +40,3 @@
     --label-stroke-color: var(--page-background);
   }
 }
-

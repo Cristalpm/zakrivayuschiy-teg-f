@@ -52,6 +52,7 @@ ol {
   white-space: nowrap;
   -webkit-clip-path: inset(50%);
 }
+
 /*Селектор для изоображения*/
 img {
   width: 100%;
